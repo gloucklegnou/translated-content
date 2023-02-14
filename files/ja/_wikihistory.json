@@ -7644,10 +7644,6 @@
     "modified": "2020-08-22T02:39:04.971Z",
     "contributors": ["mfuji09", "kohei.yoshino", "Mgjbot"]
   },
-  "Web/API/Document_Object_Model/Using_the_W3C_DOM_Level_1_Core": {
-    "modified": "2020-10-05T13:58:00.928Z",
-    "contributors": ["mfuji09", "wbamberg", "kohei.yoshino", "Mgjbot"]
-  },
   "Web/API/Document_Object_Model/Whitespace": {
     "modified": "2020-03-27T15:45:14.756Z",
     "contributors": ["mfuji09", "chrisdavidmills", "ethertank", "Mgjbot", "Deq"]
@@ -7655,6 +7651,10 @@
   "Web/API/Document_object_model/Locating_DOM_elements_using_selectors": {
     "modified": "2020-09-27T08:56:01.656Z",
     "contributors": ["mfuji09", "ethertank", "RobinEgg"]
+  },
+  "Web/API/Document_object_model/Using_the_Document_Object_Model": {
+    "modified": "2020-10-05T13:58:00.928Z",
+    "contributors": ["mfuji09", "wbamberg", "kohei.yoshino", "Mgjbot"]
   },
   "Web/API/DragEvent": {
     "modified": "2020-10-15T21:48:03.239Z",
