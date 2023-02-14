@@ -3608,8 +3608,8 @@
 /fr/docs/Utilisation_de_l'interface_JavaScript_de_Mozilla_pour_les_transformations_XSL	/fr/docs/Web/XSLT/Using_the_Mozilla_JavaScript_interface_to_XSL_Transformations
 /fr/docs/Utilisation_de_la_géolocalisation	/fr/docs/Web/API/Geolocation_API
 /fr/docs/Utilisation_des_web_workers	/fr/docs/Web/API/Web_Workers_API/Using_web_workers
-/fr/docs/Utilisation_du_DOM_Level_1_Core_du_W3C	/fr/docs/Web/API/Document_object_model/Using_the_W3C_DOM_Level_1_Core
-/fr/docs/Utilisation_du_DOM_Level_1_Core_du_W3C/Exemple	/fr/docs/Web/API/Document_object_model/Using_the_W3C_DOM_Level_1_Core/Example
+/fr/docs/Utilisation_du_DOM_Level_1_Core_du_W3C	/fr/docs/Web/API/Document_object_model/Using_the_Document_Object_Model
+/fr/docs/Utilisation_du_DOM_Level_1_Core_du_W3C/Exemple	/fr/docs/Web/API/Document_object_model/Using_the_Document_Object_Model/Example
 /fr/docs/Utilisation_du_cache_dans_Firefox_1.5	/fr/docs/Mozilla/Firefox/Releases/1.5/Using_Firefox_1.5_caching
 /fr/docs/Utilisation_du_cache_de_Firefox_1.5	/fr/docs/Mozilla/Firefox/Releases/1.5/Using_Firefox_1.5_caching
 /fr/docs/Web/API/API_HTML_Drag_and_Drop	/fr/docs/Web/API/HTML_Drag_and_Drop_API
@@ -3724,8 +3724,10 @@
 /fr/docs/Web/API/Document_Object_Model/document	/fr/docs/Web/API/Document
 /fr/docs/Web/API/Document_Object_Model/element	/fr/docs/Web/API/Element
 /fr/docs/Web/API/Document_Object_Model/window	/fr/docs/Web/API/Window
-/fr/docs/Web/API/Document_object_model/Utilisation_du_DOM_Level_1_Core_du_W3C	/fr/docs/Web/API/Document_object_model/Using_the_W3C_DOM_Level_1_Core
-/fr/docs/Web/API/Document_object_model/Utilisation_du_DOM_Level_1_Core_du_W3C/Exemple	/fr/docs/Web/API/Document_object_model/Using_the_W3C_DOM_Level_1_Core/Example
+/fr/docs/Web/API/Document_object_model/Using_the_W3C_DOM_Level_1_Core	/fr/docs/Web/API/Document_object_model/Using_the_Document_Object_Model
+/fr/docs/Web/API/Document_object_model/Using_the_W3C_DOM_Level_1_Core/Example	/fr/docs/Web/API/Document_object_model/Using_the_Document_Object_Model/Example
+/fr/docs/Web/API/Document_object_model/Utilisation_du_DOM_Level_1_Core_du_W3C	/fr/docs/Web/API/Document_object_model/Using_the_Document_Object_Model
+/fr/docs/Web/API/Document_object_model/Utilisation_du_DOM_Level_1_Core_du_W3C/Exemple	/fr/docs/Web/API/Document_object_model/Using_the_Document_Object_Model/Example
 /fr/docs/Web/API/DoubleRange	/fr/docs/Web/API/MediaTrackConstraints
 /fr/docs/Web/API/EffectTiming	/fr/docs/Web/API/KeyframeEffect/KeyframeEffect
 /fr/docs/Web/API/EffectTiming/delay	/fr/docs/Web/API/KeyframeEffect/KeyframeEffect
@@ -3952,6 +3954,7 @@
 /fr/docs/Web/API/Référence_du_DOM_Gecko/document	/fr/docs/Web/API/Document
 /fr/docs/Web/API/Référence_du_DOM_Gecko/element	/fr/docs/Web/API/Element
 /fr/docs/Web/API/Référence_du_DOM_Gecko/window	/fr/docs/Web/API/Window
+/fr/docs/Web/API/SVGMatrix	/fr/docs/conflicting/Web/API/DOMMatrix
 /fr/docs/Web/API/SVGStylable	/fr/docs/Web/API/SVGElement
 /fr/docs/Web/API/Selection.toString	/fr/docs/Web/API/Selection/toString
 /fr/docs/Web/API/ServiceWorker/onstatechange	/fr/docs/Web/API/ServiceWorker/statechange_event

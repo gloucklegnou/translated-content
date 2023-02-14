@@ -8645,7 +8645,7 @@
     "modified": "2019-03-18T21:39:30.176Z",
     "contributors": ["loella16"]
   },
-  "Web/API/Document_object_model/Using_the_W3C_DOM_Level_1_Core": {
+  "Web/API/Document_object_model/Using_the_Document_Object_Model": {
     "modified": "2020-03-02T10:16:52.732Z",
     "contributors": [
       "SphinxKnight",
@@ -8655,7 +8655,7 @@
       "BenoitL"
     ]
   },
-  "Web/API/Document_object_model/Using_the_W3C_DOM_Level_1_Core/Example": {
+  "Web/API/Document_object_model/Using_the_Document_Object_Model/Example": {
     "modified": "2020-03-02T10:16:52.814Z",
     "contributors": ["SphinxKnight", "loella16"]
   },
@@ -11686,10 +11686,6 @@
   "Web/API/SVGElement": {
     "modified": "2019-03-23T23:05:24.715Z",
     "contributors": ["thePivottt"]
-  },
-  "Web/API/SVGMatrix": {
-    "modified": "2019-03-23T23:03:00.534Z",
-    "contributors": ["Arioch"]
   },
   "Web/API/SVGRect": {
     "modified": "2019-03-23T23:02:52.318Z",
@@ -27906,5 +27902,9 @@
       "si0ls",
       "dattaz"
     ]
+  },
+  "conflicting/Web/API/DOMMatrix": {
+    "modified": "2019-03-23T23:03:00.534Z",
+    "contributors": ["Arioch"]
   }
 }
